@@ -12,7 +12,7 @@ const generateRandomColor = () => {
   }
 
   block(150);
-
+  console.log("result",result)
   return result;
 };
 
